@@ -4,6 +4,7 @@
   "description": "JS drumkit project from WesBosJS30",
   "main": "server.js",
   "scripts": {
+    "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joseph Driscoll",

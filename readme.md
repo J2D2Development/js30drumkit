@@ -1,0 +1,2 @@
+<h2>My take on the drumkit from Wes Bos js30 Course</h2>
+Want to give it a shot?  Clone the repo, npm install (to get Express for the simple node server that runs the app), open a command prompt and run "npm start".

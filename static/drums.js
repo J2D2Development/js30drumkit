@@ -1,11 +1,3 @@
-/*
-TODO
-    1) html structure
-    2) css styling - basic
-    3) keycodes for drums
-    4) css styling- on keypress add/remove classes
-    4) audio api?  - use wes bos video for this part, do it last
-*/
 'use strict';
 
 function init() {
