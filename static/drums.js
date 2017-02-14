@@ -1,6 +1,7 @@
 'use strict';
 
 function init() {
+    console.log('init fired!');
     function keyPressHandler(evt) {
         const key = evt.keyCode.toString();
         play(key);
@@ -25,4 +26,4 @@ function init() {
     document.addEventListener('keypress', keyPressHandler, false);
 }
 
-document.addEventListener('DOMContentLoaded', init, false);
+window.addEventListener('load', init, false);
